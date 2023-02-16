@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">weather app task</string>
+     <string name="error_title">Ooops! Something went wrong.</string>
+    <string name="error_hint">Please refresh the page and try again</string>
+    <string name="refresh">Refresh</string>
+      <string name="search_city">search city</string>
+</resources>
